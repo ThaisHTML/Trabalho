@@ -1,0 +1,41 @@
+body{
+    background-image: url(Anúncio\ de\ vídeo\ in-stream\ para\ Spa\ Roxo.png);
+    background-size:auto;
+    background-repeat:no repeat;
+    background-attachment:fixed;
+    background-position:center;
+}
+.text-overlay h1{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    color:black;
+    text-align: center;
+    background-color: rgb(232, 184, 241);
+    padding: 20px;
+    border-radius: 10px;
+
+
+}
+.text-overlay p1{
+    position: absolute;
+    top:30%;
+    left:20%
+}
+.text-overlay h3{
+    position:absolute;
+    top:40%;
+    left:40%;
+}
+.text-overlay form{
+    position: absolute;
+    top:45%;
+    left:35%;
+    background-color: rgb(223, 201, 243);
+}
+.text-overlay footer{
+    position:absolute;
+    top:350%;
+    left:30%;
+
+}

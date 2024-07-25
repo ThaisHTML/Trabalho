@@ -1,0 +1,27 @@
+body{
+    background-image: url(Anúncio\ de\ vídeo\ in-stream\ para\ Spa\ Roxo.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+.text-overlay h1{
+    position: absolute;
+    top:10%;
+    left:40%;
+    background-color:rgb(220, 179, 236);
+    border-radius: 10px;
+    
+}
+.text-overlay p1{
+    position:absolute;
+    top:25%;
+    left:36%;
+    background-color: rgb(216, 196, 235);
+    border: 2px;
+    padding: 20px;
+    margin:10px;
+    border-radius: 10px;
+    max-width: 400px;
+
+
+}

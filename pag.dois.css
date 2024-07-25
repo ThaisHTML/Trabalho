@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(200, 183, 216);
+    background-size:auto;
+    background-repeat: no repeat;
+    background-attachment:fixed;
+    background-position:center;
+}
+.text-overlay h1{
+    position: absolute;
+    top:10%;
+    left:40%;
+    background-color: rgb(152, 120, 182);
+    border-radius: 10px;
+}
+.text-overlay p1{
+    position:absolute;
+    top:30%;
+    left:25%;
+}
+.text-overlay img{
+    position:absolute;
+    top:45%;
+    left:30%;
+    border-radius: 10px;
+    
+}
+.text-overlay footer{
+    position:absolute;
+    top:100%;
+    left:45%;
+    background-color: rgb(88, 69, 105);
+
+}
+.text-overlay ul{
+    position:absolute;
+    top:45%;
+    left:60%;
+    background-color: rgb(221, 204, 238);
+    border-radius: 10px;
+    padding: 40px;
+}
